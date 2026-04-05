@@ -14,4 +14,4 @@ A text based adventure game made in C++
 - cin/cout
 
 ## Author
-Vespershade49
+-Kshitij Sen
